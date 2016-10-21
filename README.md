@@ -49,6 +49,8 @@ This list includes most of the tools and technologies you'll be working with whe
 
 ## Other useful resources
 
+### Common acronyms
+
 ### Books
 
 ### Courses
