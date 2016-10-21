@@ -5,6 +5,7 @@
 1. [Welcome](#welcome)
 1. [General / Admin](#)
 1. [Machine Setup](#)
+1. [Languages](#)
 1. [Tooling & Workflow](#)
 1. [Core Technologies](#)
     1. [Server](#)
@@ -28,6 +29,8 @@ This list includes most of the tools and technologies you'll be working with whe
 ## General / Admin
 
 ## Machine Setup
+
+## Languages
 
 ## Tooling & Workflow
 
