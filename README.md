@@ -5,19 +5,15 @@
 1. [Welcome](#welcome)
 1. [Languages](#languages)
 1. [Tools](#tools)
-1. [Core Technologies](#)
-    1. [Server](#)
-    1. [Client](#)
-    1. [Database](#)
-1. [Other Technologies](#)
-    1. [Server](#)
-    1. [Client](#)
-    1. [Database](#)
-1. [Other useful resources](#)
-    1. [Common acronyms](#)
-    1. [Books](#)
-    1. [Courses](#)
-    1. [Podcasts](#)
+1. [Technologies](#technologies)
+    1. [Server](#server)
+    1. [Client](#client)
+    1. [Database](#database)
+1. [Useful resources](#useful-resources)
+    1. [Common acronyms](#common-acronyms)
+    1. [Books](#books)
+    1. [Courses](#courses)
+    1. [Podcasts](#podcasts)
 
 ## Welcome
 Welcome to Intergen!
@@ -36,7 +32,7 @@ This list includes many of the tools and technologies used by the Modern Applica
 
 * [Intergen Dev Tools](https://github.com/Intergen-NZ/DevTools)
 
-## Core Technologies
+## Technologies
 
 ### Server
 
@@ -44,15 +40,7 @@ This list includes many of the tools and technologies used by the Modern Applica
 
 ### Database
 
-## Other Technologies
-
-### Server
-
-### Client
-
-### Database
-
-## Other useful resources
+## Useful resources
 
 ### Common acronyms
 
