@@ -4,7 +4,6 @@
 ## Contents
 1. [Welcome](#welcome)
 1. [General / Admin](#)
-1. [Machine Setup](#)
 1. [Languages](#)
 1. [Tooling & Workflow](#)
 1. [Core Technologies](#)
@@ -27,8 +26,6 @@ Hi, welcome to Intergen :)
 This list includes most of the tools and technologies you'll be working with when you start. **We do not expect you to go off and learn everything about these before you get here.** Instead, take a look at our technology stack in the areas that interest you the most. This guide is also designed to serve as a reference while you're at Intergen.
 
 ## General / Admin
-
-## Machine Setup
 
 ## Languages
 
