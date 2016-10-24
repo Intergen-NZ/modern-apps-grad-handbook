@@ -43,6 +43,14 @@ This list includes many of the tools and technologies used by the Modern Applica
 ## Useful resources
 
 ### Common acronyms
+* CI - [Continuous Integration](https://www.thoughtworks.com/continuous-integration)
+* CD - [Continuous Delivery](https://www.thoughtworks.com/continuous-delivery)
+* GAC - [Global Assembly Cache](https://msdn.microsoft.com/en-us/library/yf1d93sz(v=vs.110).aspx)
+* GUID - [Globally Unique Identifier](https://en.wikipedia.org/wiki/Globally_unique_identifier)
+* IIS - [Internet Information Services](https://www.iis.net/)
+* JSON - [JavaScript Object Notation](http://www.json.org/)
+* JWT - [JSON Web Token](https://jwt.io/introduction/)
+* MSDN - [Microsoft Developer Network](https://msdn.microsoft.com/)
 
 ### Books
 
