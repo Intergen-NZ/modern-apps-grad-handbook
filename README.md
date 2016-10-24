@@ -53,7 +53,7 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Angular Docs](https://docs.angularjs.org/guide) - We use Angular 1.x for most of our web projects at Intergen.
 * [Angular JS Fundamentals](https://egghead.io/courses/angularjs-app-from-scratch-getting-started) - Learn the basics
 * [Codeschool Course](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Interactive walkthrough
-* [Angular with TypeScript](https://www.pluralsight.com/courses/angular-typescript) - More or less how we do things, you'll need to auth using your Intergen pluralsight account. `pluralsight`
+* [Angular with TypeScript](https://www.pluralsight.com/courses/angular-typescript) - More or less how we do things. `pluralsight`
 * [Fountain.io](http://fountainjs.io/) - Web app generators so you don't have to write boring boilerplate code.
 
 **TypeScript**
