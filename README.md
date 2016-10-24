@@ -11,6 +11,7 @@
     1. [Client](#client)
     1. [Database](#database)
 1. [Useful resources](#useful-resources)
+    1. [Freebies](#freebies)
     1. [Common acronyms](#common-acronyms)
     1. [Books](#books)
     1. [Podcasts](#podcasts)
@@ -65,6 +66,12 @@ This list includes many of the tools and technologies used by the Modern Applica
 ### Database
 
 ## Useful resources
+
+### Freebies
+*You can claim these while you're still a student :book:*
+
+* [Github Student Developer Pack](https://education.github.com/pack) - Bundles together a bunch of awesome things.
+* [JetBrains IDEs and Tools](https://www.jetbrains.com/student/) - Grants access to all of JetBrains' products. We use ReSharper extensively at Intergen.
 
 ### Common acronyms
 * CI - [Continuous Integration](https://www.thoughtworks.com/continuous-integration)
