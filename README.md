@@ -84,5 +84,9 @@ This list includes many of the tools and technologies used by the Modern Applica
 * MSDN - [Microsoft Developer Network](https://msdn.microsoft.com/)
 
 ### Books
+* [Clean Code - Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
+* [Head First Design Patterns - Eric Freeman, Kathy Sierra, Bert Bates, Elisabeth Robson](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+* [The Pragmatic Programmer - Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+* [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
 
 ### Podcasts
