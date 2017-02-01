@@ -82,6 +82,9 @@ This list includes many of the tools and technologies used by the Modern Applica
 * JSON - [JavaScript Object Notation](http://www.json.org/)
 * JWT - [JSON Web Token](https://jwt.io/introduction/)
 * MSDN - [Microsoft Developer Network](https://msdn.microsoft.com/)
+* VSTS - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
+* VSO - [Visual Studio Online](https://www.visualstudio.com/team-services/)
+* NPM - [Node Package Manager](https://www.npmjs.com/)
 
 ### Books
 * [Clean Code - Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
