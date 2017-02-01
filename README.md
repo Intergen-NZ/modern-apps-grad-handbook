@@ -93,3 +93,8 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
 
 ### Podcasts
+* [Software Engineering Daily](https://shortorange.com/player/#!/podcast/1824ee962d9ff073aab24580997d45a2)
+* [Coding Blocks | Software and Web Programming / Security / Best Practices / Microsoft .NET](https://shortorange.com/player/#!/podcast/eb8a8f5ae269b7d43c0ea6d522950ad6)
+* [Front End Happy Hour](https://shortorange.com/player/#!/podcast/2036f295acb2ed3e52d78a60058d4c52)
+* [JavaScript Jabber](https://shortorange.com/player/#!/podcast/6bb560405f6384626dd56d8304d6438e)
+* [ShopTalk](https://shortorange.com/player/#!/podcast/cc62e6cd3804a57d3affa90de6f0623b)
