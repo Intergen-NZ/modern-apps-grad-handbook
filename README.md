@@ -91,6 +91,7 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Head First Design Patterns - Eric Freeman, Kathy Sierra, Bert Bates, Elisabeth Robson](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
 * [The Pragmatic Programmer - Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * [Domain Driven Design - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
+* [Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
 
 ### Podcasts
 * [Software Engineering Daily](https://shortorange.com/player/#!/podcast/1824ee962d9ff073aab24580997d45a2)
