@@ -99,3 +99,13 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Front End Happy Hour](https://shortorange.com/player/#!/podcast/2036f295acb2ed3e52d78a60058d4c52)
 * [JavaScript Jabber](https://shortorange.com/player/#!/podcast/6bb560405f6384626dd56d8304d6438e)
 * [ShopTalk](https://shortorange.com/player/#!/podcast/cc62e6cd3804a57d3affa90de6f0623b)
+
+
+## Contributing
+Please feel free to contribute to this handbook in any of the following ways:
+
+* Fixing typos & grammar.
+* Adding additional information to any of the sections above.
+* Creating sections for things we've missed.
+
+You can make amendments to the guide by clicking the edit button when viewing [README.md](README.md) on Github.
