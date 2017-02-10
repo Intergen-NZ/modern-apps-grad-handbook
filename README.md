@@ -8,9 +8,8 @@
 1. [Tools](#tools)
 1. [Concepts and Technologies](#concepts-and-technologies)
     1. [Fundamentals](#fundamentals)
-    1. [Server](#server)
-    1. [Client](#client)
-    1. [Database](#database)
+    1. [Backend](#backend)
+    1. [Frontend](#frontend)
 1. [Useful resources](#useful-resources)
     1. [Freebies](#freebies)
     1. [Common acronyms](#common-acronyms)
@@ -25,8 +24,6 @@ This list includes many of the tools and technologies used by the Modern Applica
 ## PluralSight Courses
 
 > Requires PluralSight account. Ask someone if you need this set up.
-
-* [Getting Started with Entity Framework](https://app.pluralsight.com/library/courses/entity-framework5-getting-started/table-of-contents) - This is Microsoft's ORM (object-relational mapping) that allows us to deal with databases through application code.
 
 ## Languages
 
@@ -48,9 +45,12 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Git Tutorial by Github](https://try.github.io)
 * [Learn Git Branching](http://learngitbranching.js.org/)
 
-### Server
+### Backend
 
-### Client
+**Entity Framework**
+* [Getting Started with Entity Framework](https://app.pluralsight.com/library/courses/entity-framework5-getting-started/table-of-contents) - This is Microsoft's ORM (object-relational mapping) that allows us to deal with databases through application code. `pluralsight`
+
+### Frontend
 
 **Angular JS**
 * [Angular Docs](https://docs.angularjs.org/guide) - We use Angular 1.x for most of our web projects at Intergen.
@@ -65,8 +65,6 @@ This list includes many of the tools and technologies used by the Modern Applica
 
 **Less**
 * [Less Overview](http://lesscss.org/features/) - Shows off some of the things you can do with Less.
-
-### Database
 
 ## Useful resources
 
