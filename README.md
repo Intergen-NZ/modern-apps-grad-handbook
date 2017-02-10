@@ -3,6 +3,7 @@
 
 ## Contents
 1. [Welcome](#welcome)
+1. [PluralSight Courses](#pluralsight-courses)
 1. [Languages](#languages)
 1. [Tools](#tools)
 1. [Concepts and Technologies](#concepts-and-technologies)
@@ -21,9 +22,11 @@ Welcome to Intergen!
 
 This list includes many of the tools and technologies used by the Modern Applications team at Intergen. **We do not expect you to go off and learn everything about these before you get here.** Instead, take a look at our technology stack in the areas that interest you the most. This guide is also designed to serve as a quick reference for current Intergenites :)
 
-> __Pluralsight Courses__
-> 
-> You'll have to use your pluralsight account to access the courses tagged with `pluralsight`
+## PluralSight Courses
+
+> Requires PluralSight account. Ask someone if you need this set up.
+
+* [Getting Started with Entity Framework](https://app.pluralsight.com/library/courses/entity-framework5-getting-started/table-of-contents) - This is Microsoft's ORM (object-relational mapping) that allows us to deal with databases through application code.
 
 ## Languages
 
